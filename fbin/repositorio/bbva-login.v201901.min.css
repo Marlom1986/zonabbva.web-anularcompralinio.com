@@ -1,0 +1,13 @@
+.container{max-width:530px;width:100%;margin:0px auto;display:block;}.container:before, .container:after{content:" ";display:table;}.container:after{clear:both;}.bd-login h1{text-align:center;}@media(min-width:769px){.access-container {margin: 0px auto;}.form-login{width:300px;margin:0px auto;}#openModalBorrar .modal-dialog{width:500px;}}@media(max-width:768px){.access-container{width:100%;padding:0px 32px;box-sizing:border-box;}}.access-container #lnkModificacion{font-size:13px;padding: 15px 0px 10px 0px;}.form-group{position:relative;margin-bottom:20px;}.form-group p.help-message{margin-top: 8px;margin-bottom: 8px;}.rel{position:relative;}label.control-label{
+	position: absolute;
+	margin: auto;
+	overflow: hidden;
+	cursor: text;
+	color: #666666;
+	-webkit-transition: 0.2s ease all;
+	-o-transition: 0.2s ease all;
+	transition: 0.2s ease all;
+	top: 24px;
+	left: 13px;
+	font-size: 15px;
+}label.control-label{font-family: "BentonSansBBVA Book", "Helvetica Neue", Arial, Helvetica, sans-serif;}label.lbl-cb{display:block !important;margin-bottom:10px;}label.lbl-cb span{display:inline-block;line-height:24px;font-size:14px;vertical-align: top;}label span, .form-group p.help-msg{font-family:"BentonSansBBVA Book", "Helvetica Neue", Arial, Helvetica, sans-serif;font-weight: 400;}.form-group p.help-msg{font-size:12px;}hr.bg-white{display: block;height: 1px;border: 0;margin: 1em 0;padding: 0;border-top: 1px solid #d3d3d3;}.center{text-align:center;}.icon-password{width: 24px;height: 18px;position: absolute;right: 10px;top: 30px;background-position-x: center;background-position-y: center;background-size: 100%;background-repeat-x: no-repeat;background-repeat-y: no-repeat;}.icon-password.mostrarPassword{background-image: url(../../img/ojo-mostrar-password.html);}.icon-password.ocultarPassword{background-image: url(../../img/ojo-ocultar-password.html);}#chkFrecuentesLabel .remind-document{position:absolute;right:60px;z-index:1;}#chkFrecuentesLabel .ic-question{height:24px;display:inline-block;}#chkFrecuentesLabel .ic-question:before, #chkBorrarLabel .ic-question:before{font-size:24px;}#chkBorrarLabel .delete-document{position: absolute;right: 50px;z-index:1;}
